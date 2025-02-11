@@ -3,9 +3,9 @@ this is script install for arch linux [MacSonoma-kde](https://github.com/vinceli
 
 ##Install
 ```bash
-bash <(curl -sL https://example.com/script.sh)>
+bash <(curl -sL https://raw.githubusercontent.com/apofeoziy/mac-sonoma-kde-with-linux/refs/heads/main/script.sh)>
 ```
 or
 ```bash
-curl -sL https://example.com/script.sh
+curl -sL https://raw.githubusercontent.com/apofeoziy/mac-sonoma-kde-with-linux/refs/heads/main/script.sh
 ```
